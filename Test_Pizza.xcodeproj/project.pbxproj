@@ -7,23 +7,49 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FC6C3A7B28F863FD002811CC /* PizzaCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC6C3A7A28F863FD002811CC /* PizzaCell.swift */; };
+		FC6C3A7E28F8667C002811CC /* Pizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC6C3A7D28F8667C002811CC /* Pizza.swift */; };
+		FC6C3A8028F8778B002811CC /* BannerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC6C3A7F28F8778B002811CC /* BannerCell.swift */; };
+		FC6C3A8228F877AE002811CC /* Banner.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC6C3A8128F877AE002811CC /* Banner.swift */; };
+		FC6C3A8528F87EF9002811CC /* NavBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC6C3A8428F87EF9002811CC /* NavBarView.swift */; };
+		FC6C3A8928F89468002811CC /* BannerTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC6C3A8828F89468002811CC /* BannerTableCell.swift */; };
+		FC6C3A8B28F8949D002811CC /* MenuCollectionLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC6C3A8A28F8949C002811CC /* MenuCollectionLayout.swift */; };
+		FC6C3A8F28F89FA0002811CC /* SectionButtonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC6C3A8E28F89F9F002811CC /* SectionButtonCell.swift */; };
+		FC6C3A9128F8A22D002811CC /* SectionTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC6C3A9028F8A22D002811CC /* SectionTableCell.swift */; };
 		FCB9CA4728F85860001A87FD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCB9CA4628F85860001A87FD /* AppDelegate.swift */; };
 		FCB9CA4928F85860001A87FD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCB9CA4828F85860001A87FD /* SceneDelegate.swift */; };
-		FCB9CA4B28F85860001A87FD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCB9CA4A28F85860001A87FD /* ViewController.swift */; };
-		FCB9CA4E28F85860001A87FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCB9CA4C28F85860001A87FD /* Main.storyboard */; };
 		FCB9CA5028F85863001A87FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FCB9CA4F28F85863001A87FD /* Assets.xcassets */; };
 		FCB9CA5328F85863001A87FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCB9CA5128F85863001A87FD /* LaunchScreen.storyboard */; };
+		FCB9CA5D28F8595C001A87FD /* MainTabBarVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCB9CA5C28F8595C001A87FD /* MainTabBarVC.swift */; };
+		FCB9CA6328F85A93001A87FD /* MenuVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCB9CA6228F85A93001A87FD /* MenuVC.swift */; };
+		FCB9CA6528F85AB0001A87FD /* ContactsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCB9CA6428F85AB0001A87FD /* ContactsVC.swift */; };
+		FCB9CA6728F85AC2001A87FD /* ProfileVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCB9CA6628F85AC1001A87FD /* ProfileVC.swift */; };
+		FCB9CA6928F85ACF001A87FD /* BasketVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCB9CA6828F85ACF001A87FD /* BasketVC.swift */; };
+		FCB9CA6C28F85E01001A87FD /* Ex+Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCB9CA6B28F85E01001A87FD /* Ex+Colors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FC6C3A7A28F863FD002811CC /* PizzaCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PizzaCell.swift; sourceTree = "<group>"; };
+		FC6C3A7D28F8667C002811CC /* Pizza.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pizza.swift; sourceTree = "<group>"; };
+		FC6C3A7F28F8778B002811CC /* BannerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BannerCell.swift; sourceTree = "<group>"; };
+		FC6C3A8128F877AE002811CC /* Banner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Banner.swift; sourceTree = "<group>"; };
+		FC6C3A8428F87EF9002811CC /* NavBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavBarView.swift; sourceTree = "<group>"; };
+		FC6C3A8828F89468002811CC /* BannerTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BannerTableCell.swift; sourceTree = "<group>"; };
+		FC6C3A8A28F8949C002811CC /* MenuCollectionLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuCollectionLayout.swift; sourceTree = "<group>"; };
+		FC6C3A8E28F89F9F002811CC /* SectionButtonCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionButtonCell.swift; sourceTree = "<group>"; };
+		FC6C3A9028F8A22D002811CC /* SectionTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionTableCell.swift; sourceTree = "<group>"; };
 		FCB9CA4328F85860001A87FD /* Test_Pizza.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test_Pizza.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCB9CA4628F85860001A87FD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FCB9CA4828F85860001A87FD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		FCB9CA4A28F85860001A87FD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		FCB9CA4D28F85860001A87FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FCB9CA4F28F85863001A87FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FCB9CA5228F85863001A87FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FCB9CA5428F85863001A87FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FCB9CA5C28F8595C001A87FD /* MainTabBarVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabBarVC.swift; sourceTree = "<group>"; };
+		FCB9CA6228F85A93001A87FD /* MenuVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuVC.swift; sourceTree = "<group>"; };
+		FCB9CA6428F85AB0001A87FD /* ContactsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsVC.swift; sourceTree = "<group>"; };
+		FCB9CA6628F85AC1001A87FD /* ProfileVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileVC.swift; sourceTree = "<group>"; };
+		FCB9CA6828F85ACF001A87FD /* BasketVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasketVC.swift; sourceTree = "<group>"; };
+		FCB9CA6B28F85E01001A87FD /* Ex+Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ex+Colors.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +63,51 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FC6C3A7928F863E7002811CC /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FC6C3A9328F8A319002811CC /* SectionCollection */,
+				FC6C3A9228F8A2FB002811CC /* BannerCollection */,
+				FC6C3A7A28F863FD002811CC /* PizzaCell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		FC6C3A7C28F8666C002811CC /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				FC6C3A7D28F8667C002811CC /* Pizza.swift */,
+				FC6C3A8128F877AE002811CC /* Banner.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		FC6C3A8328F87EE6002811CC /* Customs */ = {
+			isa = PBXGroup;
+			children = (
+				FC6C3A8428F87EF9002811CC /* NavBarView.swift */,
+			);
+			path = Customs;
+			sourceTree = "<group>";
+		};
+		FC6C3A9228F8A2FB002811CC /* BannerCollection */ = {
+			isa = PBXGroup;
+			children = (
+				FC6C3A7F28F8778B002811CC /* BannerCell.swift */,
+				FC6C3A8828F89468002811CC /* BannerTableCell.swift */,
+			);
+			path = BannerCollection;
+			sourceTree = "<group>";
+		};
+		FC6C3A9328F8A319002811CC /* SectionCollection */ = {
+			isa = PBXGroup;
+			children = (
+				FC6C3A8E28F89F9F002811CC /* SectionButtonCell.swift */,
+				FC6C3A9028F8A22D002811CC /* SectionTableCell.swift */,
+			);
+			path = SectionCollection;
+			sourceTree = "<group>";
+		};
 		FCB9CA3A28F85860001A87FD = {
 			isa = PBXGroup;
 			children = (
@@ -58,13 +129,77 @@
 			children = (
 				FCB9CA4628F85860001A87FD /* AppDelegate.swift */,
 				FCB9CA4828F85860001A87FD /* SceneDelegate.swift */,
-				FCB9CA4A28F85860001A87FD /* ViewController.swift */,
-				FCB9CA4C28F85860001A87FD /* Main.storyboard */,
 				FCB9CA4F28F85863001A87FD /* Assets.xcassets */,
 				FCB9CA5128F85863001A87FD /* LaunchScreen.storyboard */,
 				FCB9CA5428F85863001A87FD /* Info.plist */,
+				FCB9CA5A28F85934001A87FD /* Module */,
 			);
 			path = Test_Pizza;
+			sourceTree = "<group>";
+		};
+		FCB9CA5A28F85934001A87FD /* Module */ = {
+			isa = PBXGroup;
+			children = (
+				FC6C3A8328F87EE6002811CC /* Customs */,
+				FC6C3A7C28F8666C002811CC /* Models */,
+				FCB9CA6A28F85DF0001A87FD /* Extension */,
+				FCB9CA6128F85A6E001A87FD /* Basket */,
+				FCB9CA6028F85A4E001A87FD /* Profile */,
+				FCB9CA5F28F85A3C001A87FD /* Contacts */,
+				FCB9CA5E28F85A37001A87FD /* Menu */,
+				FCB9CA5B28F8593E001A87FD /* Main */,
+			);
+			path = Module;
+			sourceTree = "<group>";
+		};
+		FCB9CA5B28F8593E001A87FD /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				FCB9CA5C28F8595C001A87FD /* MainTabBarVC.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		FCB9CA5E28F85A37001A87FD /* Menu */ = {
+			isa = PBXGroup;
+			children = (
+				FC6C3A7928F863E7002811CC /* View */,
+				FCB9CA6228F85A93001A87FD /* MenuVC.swift */,
+			);
+			path = Menu;
+			sourceTree = "<group>";
+		};
+		FCB9CA5F28F85A3C001A87FD /* Contacts */ = {
+			isa = PBXGroup;
+			children = (
+				FCB9CA6428F85AB0001A87FD /* ContactsVC.swift */,
+			);
+			path = Contacts;
+			sourceTree = "<group>";
+		};
+		FCB9CA6028F85A4E001A87FD /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				FCB9CA6628F85AC1001A87FD /* ProfileVC.swift */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		FCB9CA6128F85A6E001A87FD /* Basket */ = {
+			isa = PBXGroup;
+			children = (
+				FCB9CA6828F85ACF001A87FD /* BasketVC.swift */,
+			);
+			path = Basket;
+			sourceTree = "<group>";
+		};
+		FCB9CA6A28F85DF0001A87FD /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				FCB9CA6B28F85E01001A87FD /* Ex+Colors.swift */,
+				FC6C3A8A28F8949C002811CC /* MenuCollectionLayout.swift */,
+			);
+			path = Extension;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,7 +262,6 @@
 			files = (
 				FCB9CA5328F85863001A87FD /* LaunchScreen.storyboard in Resources */,
 				FCB9CA5028F85863001A87FD /* Assets.xcassets in Resources */,
-				FCB9CA4E28F85860001A87FD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,23 +272,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FCB9CA4B28F85860001A87FD /* ViewController.swift in Sources */,
 				FCB9CA4728F85860001A87FD /* AppDelegate.swift in Sources */,
+				FCB9CA6C28F85E01001A87FD /* Ex+Colors.swift in Sources */,
+				FCB9CA6728F85AC2001A87FD /* ProfileVC.swift in Sources */,
+				FCB9CA5D28F8595C001A87FD /* MainTabBarVC.swift in Sources */,
+				FCB9CA6928F85ACF001A87FD /* BasketVC.swift in Sources */,
+				FC6C3A8B28F8949D002811CC /* MenuCollectionLayout.swift in Sources */,
+				FC6C3A8F28F89FA0002811CC /* SectionButtonCell.swift in Sources */,
+				FC6C3A8228F877AE002811CC /* Banner.swift in Sources */,
+				FC6C3A7E28F8667C002811CC /* Pizza.swift in Sources */,
 				FCB9CA4928F85860001A87FD /* SceneDelegate.swift in Sources */,
+				FCB9CA6328F85A93001A87FD /* MenuVC.swift in Sources */,
+				FC6C3A8528F87EF9002811CC /* NavBarView.swift in Sources */,
+				FCB9CA6528F85AB0001A87FD /* ContactsVC.swift in Sources */,
+				FC6C3A8928F89468002811CC /* BannerTableCell.swift in Sources */,
+				FC6C3A8028F8778B002811CC /* BannerCell.swift in Sources */,
+				FC6C3A9128F8A22D002811CC /* SectionTableCell.swift in Sources */,
+				FC6C3A7B28F863FD002811CC /* PizzaCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		FCB9CA4C28F85860001A87FD /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				FCB9CA4D28F85860001A87FD /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		FCB9CA5128F85863001A87FD /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -292,7 +432,6 @@
 				INFOPLIST_FILE = Test_Pizza/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -320,7 +459,6 @@
 				INFOPLIST_FILE = Test_Pizza/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
